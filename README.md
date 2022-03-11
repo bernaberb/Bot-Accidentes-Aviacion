@@ -1,5 +1,7 @@
 # Bot Accidentes Aviacion
 
+* Link al detalle: https://github.com/bernaberb/Bot-Accidentes-Aviacion/blob/main/Aviation_Accidents_Bot.ipynb
+
 * Link al Google Colab con pasos detallados: https://colab.research.google.com/drive/1SjquMOrk2QM37N9NNQyqqyoXEGyo0LSM#scrollTo=VN8r3NeaGWFf
 
 * Link al bot: https://twitter.com/AirAccidentsBot
